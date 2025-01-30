@@ -24,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="develop" />
+  </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="python_test/main" />
   </component>
